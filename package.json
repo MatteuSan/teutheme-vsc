@@ -1,6 +1,6 @@
 {
   "name": "teutheme-vscode",
-  "displayName": "teutheme-vscode",
+  "displayName": "TeuTheme for VSCode",
   "description": "Matteu's theme for Visual Studio Code.",
   "version": "0.0.1",
   "engines": {
